@@ -12,7 +12,7 @@ For instance, WaveNet (Aaron van den Oord et al., 2016) require significant doma
 
 Therefore, I wanna to try to open up Deep Expression framework, to synthesis audio signals from text directly.  
 
-In previous frameworks (Aaron van den Oord et al., 2016; Jonathan Shen et al., 2017; Yuxuan Wang et al., 2017; Wei Ping et al., 2017), people tended to normalized audio data, and may eventually loss of sound rhythm. Even though they claimed that they synthesized natural human voice, synthesized audios from their systems, there is still a gap with real vocals. In Deep Expression, model was trained by using 16bit-interger signals directly to synthesize amazing real human voice.
+In previous frameworks (Aaron van den Oord et al., 2016; Jonathan Shen et al., 2017; Yuxuan Wang et al., 2017; Wei Ping et al., 2017), people tended to normalized audio data, and May eventually loss of sound rhythm. Even though they claimed that they synthesized natural human voice, synthesized audios from their systems, there is still a gap with real vocals. In Deep Expression, model was trained by using 16bit-interger signals directly to synthesize amazing real human voice.
 
 # Library Utilized
 
